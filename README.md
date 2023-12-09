@@ -1,2 +1,2 @@
-# CVM-Evmos
-Evmos based CVM chain for interconnection.
+# CVM-Chain
+CVM chain for interconnection.
